@@ -1,0 +1,29 @@
+body {
+    background-image:url(https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    font-family: Verdana;
+    margin-left: 6%
+    ;
+
+  }
+  
+  h1 {
+    text-align: center;
+    color: black;
+    font-style: unset;
+  }
+  ul{
+    color: darkred;
+  }
+  
+  
+  hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+  }
+  
+  
+ 
+  
+  
+  

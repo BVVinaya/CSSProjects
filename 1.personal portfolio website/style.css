@@ -1,0 +1,12 @@
+body {
+background-color:cornflowerblue;
+font-family: verdana;
+padding: 20px;
+}
+h1,h2{
+    background-color: aqua;
+    color: darkgoldenrod; 
+}
+p{
+    color: violet;
+}
